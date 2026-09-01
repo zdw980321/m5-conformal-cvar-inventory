@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated article and this repository."
+title: "Calibrated Demand Intervals and CVaR-Constrained Inventory Allocation"
+date-released: 2026-09-02
+license: MIT
+authors:
+  - family-names: Zheng
+    given-names: Dongwen
+  - family-names: Liu
+    given-names: Zhaichun
+  - family-names: Lu
+    given-names: Mingyu
+repository-code: "https://github.com/zdw980321/m5-conformal-cvar-inventory"
