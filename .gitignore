@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+research_plan/data/raw/
+artifacts/enhanced/*.parquet
+artifacts/enhanced/figures/
