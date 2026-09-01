@@ -1,0 +1,2 @@
+selected_item_store_series,categories,states,rolling_origins,forecast_horizon_days,out_of_sample_series_days
+600,3,3,20,28,336000
